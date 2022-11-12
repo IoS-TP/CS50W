@@ -29,3 +29,13 @@ form {
     margin: auto;
     width: 50%;
 }
+.one, .two, .three, .four {
+    display: flex;
+    text-align: left;
+    margin-left: 50px;
+}
+.terms {
+    margin-top: 10px;
+    margin-left: 70px;
+    height: 25px;
+}
